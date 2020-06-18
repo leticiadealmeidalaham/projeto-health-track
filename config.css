@@ -1,0 +1,79 @@
+
+nav{
+	background-color:black;
+	width: 100%;
+	height: 50px;
+    
+}
+header{
+	
+ 
+}
+
+header h1{
+	color: black;
+	font-family: 'Montserrat',sans-serif;
+	text-align: center;
+	font-size: 28px;
+	font-weight: lighter;
+}
+
+main{
+	width: auto;
+	height: auto;
+}
+
+main h1{
+	font-family:'open sans';
+	text-align: center;
+	color:black;
+	font-weight: normal;
+	font-size: 5px;
+	
+}
+
+#rectangle{
+    width:300px;
+    height:40px;
+	background:white;
+	margin: auto;
+
+}
+
+main h2{
+	font-family: 'open sans';
+	margin: center;
+	color: black;
+	font-size: 18px;
+	font-weight: lighter;
+}
+button {
+
+	text-align: right;
+	width:23%;
+	font-size: 17%;
+}
+
+footer{
+	background-color: black;
+	width: 100%;
+	height: 80px;
+}
+
+footer h1{
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+footer h2{
+	font-size: 10px;
+}
+
+footer h1, h2{
+	color: white;
+	font-family: 'open sans';
+	text-align: center;
+	font-weight: lighter;
+}
+
+  
